@@ -9367,7 +9367,7 @@ body.rtl .custom-css-style .elementor-element.elementor-element-5b05cd1 {
   background-image: url(../upload/jonathan-borba-5G9uIkAXLSc-unsplash.jpg);
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
 }
 .custom-css-style
   .elementor-element.elementor-element-ff896b7
@@ -12033,7 +12033,7 @@ body.elementor-page-3954
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: #000;
-  background-image: url(../upload/barista-hand-pours-beverage-from-coffee-machine-BASWJ45.jpg);
+  background-image: url(../assets/chilltea13.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
