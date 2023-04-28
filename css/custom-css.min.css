@@ -9367,7 +9367,7 @@ body.rtl .custom-css-style .elementor-element.elementor-element-5b05cd1 {
   background-image: url(../upload/jonathan-borba-5G9uIkAXLSc-unsplash.jpg);
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 .custom-css-style
   .elementor-element.elementor-element-ff896b7
